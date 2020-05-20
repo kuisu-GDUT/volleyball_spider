@@ -1,0 +1,9 @@
+@startuml
+(*)  --> "read data file"
+--> "sort column"
+--> "limit data"
+--> "Setting the X and Y axes"
+--> "Setting label"
+--> "Drawing"
+-->(*)
+@enduml

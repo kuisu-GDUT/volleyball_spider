@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb46871-65d4-42d5-89f6-7bbc7546640b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/volleyball$main.coverage" NAME="main Coverage Results" MODIFIED="1589940108712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/scrap/__init__.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="78">
+                    <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+                    <folding>
+                      <element signature="e#2#37#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/charts/__init__.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="1196">
+                    <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+                    <folding>
+                      <element signature="e#1#32#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1875847526">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="6" />
+          <entry key="md" value="1" />
+          <entry key="py" value="5" />
+          <entry key="sh" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="186" />
+          <entry key="py" value="284" />
+          <entry key="txt" value="175" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="175" />
+          <entry key="Python" value="470" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1971282419">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/player_data_2019_第一阶段.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/环境配置.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="UML Sequence" />
+        <option value="UML Class" />
+        <option value="UML Activity" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scrap/__init__.py" />
+        <option value="$PROJECT_DIR$/charts/__init__.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/环境配置.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1ZASZhIVc1BITcNynBICtCQRkpV" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="volleyball_最终版" type="b2602c69:ProjectViewProjectNode" />
+              <item name="volleyball_最终版" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Activity" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/font" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="aa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/volleyball/html/CompetitionMatches/aa.html">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="volleyball" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="volleyball" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.aa.html" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="JavaScript Debug.aa.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb46871-65d4-42d5-89f6-7bbc7546640b" name="Default Changelist" comment="" />
+      <created>1584280462670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584280462670</updated>
+      <workItem from="1584280614288" duration="101000" />
+      <workItem from="1584280769602" duration="685000" />
+      <workItem from="1584332843639" duration="1211000" />
+      <workItem from="1584420866604" duration="16548000" />
+      <workItem from="1584459156941" duration="3379000" />
+      <workItem from="1584633164849" duration="67090000" />
+      <workItem from="1585139417907" duration="12645000" />
+      <workItem from="1585208793541" duration="7599000" />
+      <workItem from="1585240502997" duration="53640000" />
+      <workItem from="1585838032465" duration="7515000" />
+      <workItem from="1586136241892" duration="13741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13069706" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21242775" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4653179" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.0057803467" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.40028903" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49264705" weight="0.5131397" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="4" sideWeight="0.50735295" side_tool="true" visible="true" weight="0.5127346" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1034" y="1638" width="466" height="717" key="#aa.html" timestamp="1584883969845">
+      <screen x="0" y="0" width="2560" height="2520" />
+    </state>
+    <state x="1034" y="1638" width="466" height="717" key="#aa.html/0.0.2560.2520@0.0.2560.2520" timestamp="1584883969845" />
+    <state x="984" y="1796" width="566" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585475134188">
+      <screen x="312" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="984" y="1796" width="566" height="401" key="#com.intellij.fileTypes.FileTypeChooser/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1585475134188" />
+    <state x="237" y="221" width="1362" height="689" key="#xdebugger.evaluate" timestamp="1585575304911">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1258" y="376" key="#xdebugger.evaluate/0.27.1920.1053@0.27.1920.1053" timestamp="1585067916646" />
+    <state x="920" y="608" width="1362" height="689" key="#xdebugger.evaluate/0.27.2560.1413@0.27.2560.1413" timestamp="1585063784071" />
+    <state x="237" y="221" key="#xdebugger.evaluate/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585575304911" />
+    <state width="1494" height="430" key="DebuggerActiveHint" timestamp="1585841771335">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1494" height="430" key="DebuggerActiveHint/0.27.1920.1053@0.27.1920.1053" timestamp="1585841771335" />
+    <state width="1992" height="568" key="DebuggerActiveHint/0.27.2560.1413@0.27.2560.1413" timestamp="1585063873649" />
+    <state width="1494" height="435" key="DebuggerActiveHint/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1585481157069" />
+    <state width="1494" height="425" key="DebuggerActiveHint/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585574393595" />
+    <state x="2660" y="295" width="429" height="523" key="FileChooserDialogImpl" timestamp="1585887168434">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="2660" y="295" width="429" height="523" key="FileChooserDialogImpl/0.27.3840.1053@0.27.3840.1053" timestamp="1585887168434" />
+    <state width="1872" height="72" key="GridCell.Tab.0.bottom" timestamp="1586169040627">
+      <screen x="312" y="1440" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="255" key="GridCell.Tab.0.bottom/0.0.2560.2520@0.0.2560.2520" timestamp="1584889952209" />
+    <state width="1872" height="246" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585843834203" />
+    <state width="2512" height="385" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1585058366708" />
+    <state width="1872" height="24" key="GridCell.Tab.0.bottom/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907985" />
+    <state width="1872" height="111" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1584459146021" />
+    <state width="1872" height="72" key="GridCell.Tab.0.bottom/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1586169040627" />
+    <state width="1872" height="466" key="GridCell.Tab.0.bottom/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585626898073" />
+    <state width="1872" height="72" key="GridCell.Tab.0.center" timestamp="1586169040627">
+      <screen x="312" y="1440" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="255" key="GridCell.Tab.0.center/0.0.2560.2520@0.0.2560.2520" timestamp="1584889952208" />
+    <state width="1872" height="246" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585843834202" />
+    <state width="2512" height="385" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1585058366707" />
+    <state width="1872" height="24" key="GridCell.Tab.0.center/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907985" />
+    <state width="1872" height="111" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1584459146021" />
+    <state width="1872" height="72" key="GridCell.Tab.0.center/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1586169040627" />
+    <state width="1872" height="466" key="GridCell.Tab.0.center/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585626898073" />
+    <state width="1872" height="72" key="GridCell.Tab.0.left" timestamp="1586169040627">
+      <screen x="312" y="1440" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="255" key="GridCell.Tab.0.left/0.0.2560.2520@0.0.2560.2520" timestamp="1584889952208" />
+    <state width="1872" height="246" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585843834202" />
+    <state width="2512" height="385" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1585058366706" />
+    <state width="1872" height="24" key="GridCell.Tab.0.left/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907984" />
+    <state width="1872" height="111" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1584459146021" />
+    <state width="1872" height="72" key="GridCell.Tab.0.left/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1586169040627" />
+    <state width="1872" height="466" key="GridCell.Tab.0.left/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585626898073" />
+    <state width="1872" height="72" key="GridCell.Tab.0.right" timestamp="1586169040627">
+      <screen x="312" y="1440" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="255" key="GridCell.Tab.0.right/0.0.2560.2520@0.0.2560.2520" timestamp="1584889952208" />
+    <state width="1872" height="246" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585843834203" />
+    <state width="2512" height="385" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1585058366708" />
+    <state width="1872" height="24" key="GridCell.Tab.0.right/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907985" />
+    <state width="1872" height="111" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1584459146021" />
+    <state width="1872" height="72" key="GridCell.Tab.0.right/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1586169040627" />
+    <state width="1872" height="466" key="GridCell.Tab.0.right/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585626898073" />
+    <state width="1872" height="275" key="GridCell.Tab.1.bottom" timestamp="1585843092963">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.1.bottom/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593964" />
+    <state width="1872" height="275" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585843092963" />
+    <state width="2512" height="411" key="GridCell.Tab.1.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1585058392185" />
+    <state width="1872" height="24" key="GridCell.Tab.1.bottom/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907986" />
+    <state width="1872" height="260" key="GridCell.Tab.1.bottom/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1585577729689" />
+    <state width="1872" height="260" key="GridCell.Tab.1.bottom/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585575969808" />
+    <state width="1872" height="275" key="GridCell.Tab.1.center" timestamp="1585843092962">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.1.center/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593964" />
+    <state width="1872" height="275" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585843092962" />
+    <state width="2512" height="411" key="GridCell.Tab.1.center/0.27.2560.1413@0.27.2560.1413" timestamp="1585058392184" />
+    <state width="1872" height="24" key="GridCell.Tab.1.center/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907985" />
+    <state width="1872" height="260" key="GridCell.Tab.1.center/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1585577729689" />
+    <state width="1872" height="260" key="GridCell.Tab.1.center/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585575969808" />
+    <state width="1872" height="275" key="GridCell.Tab.1.left" timestamp="1585843092962">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.1.left/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593964" />
+    <state width="1872" height="275" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585843092962" />
+    <state width="2512" height="411" key="GridCell.Tab.1.left/0.27.2560.1413@0.27.2560.1413" timestamp="1585058392184" />
+    <state width="1872" height="24" key="GridCell.Tab.1.left/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907985" />
+    <state width="1872" height="260" key="GridCell.Tab.1.left/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1585577729689" />
+    <state width="1872" height="260" key="GridCell.Tab.1.left/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585575969808" />
+    <state width="1872" height="275" key="GridCell.Tab.1.right" timestamp="1585843092963">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.1.right/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593964" />
+    <state width="1872" height="275" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585843092963" />
+    <state width="2512" height="411" key="GridCell.Tab.1.right/0.27.2560.1413@0.27.2560.1413" timestamp="1585058392184" />
+    <state width="1872" height="24" key="GridCell.Tab.1.right/0.27.3840.1053@0.27.3840.1053" timestamp="1585108907985" />
+    <state width="1872" height="260" key="GridCell.Tab.1.right/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1585577729689" />
+    <state width="1872" height="260" key="GridCell.Tab.1.right/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585575969808" />
+    <state width="1872" height="328" key="GridCell.Tab.2.bottom" timestamp="1585028304983">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.2.bottom/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593965" />
+    <state width="1872" height="328" key="GridCell.Tab.2.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1585028304983" />
+    <state width="1872" height="328" key="GridCell.Tab.2.center" timestamp="1585028304983">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.2.center/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593965" />
+    <state width="1872" height="328" key="GridCell.Tab.2.center/0.27.2560.1413@0.27.2560.1413" timestamp="1585028304983" />
+    <state width="1872" height="328" key="GridCell.Tab.2.left" timestamp="1585028304983">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.2.left/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593965" />
+    <state width="1872" height="328" key="GridCell.Tab.2.left/0.27.2560.1413@0.27.2560.1413" timestamp="1585028304983" />
+    <state width="1872" height="328" key="GridCell.Tab.2.right" timestamp="1585028304983">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1872" height="328" key="GridCell.Tab.2.right/0.0.2560.2520@0.0.2560.2520" timestamp="1584888593965" />
+    <state width="1872" height="328" key="GridCell.Tab.2.right/0.27.2560.1413@0.27.2560.1413" timestamp="1585028304983" />
+    <state x="531" y="1674" width="910" height="737" key="SettingsEditor" timestamp="1586152548243">
+      <screen x="312" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="785" y="1467" width="1330" height="1053" key="SettingsEditor/0.0.2560.2520@0.0.2560.2520" timestamp="1585240489257" />
+    <state x="151" y="317" width="998" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1585236350822" />
+    <state x="417" y="437" width="1330" height="730" key="SettingsEditor/0.27.2560.1413@0.27.2560.1413" timestamp="1585028850051" />
+    <state x="569" y="343" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1584451984376" />
+    <state x="589" y="265" width="997" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1584458664409" />
+    <state x="2376" y="188" width="1007" height="737" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1584433745310" />
+    <state x="531" y="1674" width="910" height="737" key="SettingsEditor/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1586152548243" />
+    <state x="1001" y="1724" width="540" height="524" key="StructurePopup" timestamp="1584881411317">
+      <screen x="0" y="0" width="2560" height="2520" />
+    </state>
+    <state x="1001" y="1724" width="540" height="524" key="StructurePopup/0.0.2560.2520@0.0.2560.2520" timestamp="1584881411317" />
+    <state width="1280" height="706" key="XDebugger.FullValuePopup" timestamp="1585062983690">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1280" height="706" key="XDebugger.FullValuePopup/0.27.2560.1413@0.27.2560.1413" timestamp="1585062983690" />
+    <state x="100" y="127" width="2360" height="1213" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585054303871">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="100" y="127" width="2360" height="1213" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1585054303871" />
+    <state x="938" y="1821" key="com.intellij.ide.util.TipDialog" timestamp="1586136249619">
+      <screen x="312" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="626" y="398" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585838032534" />
+    <state x="2546" y="381" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1584420868188" />
+    <state x="938" y="1821" key="com.intellij.ide.util.TipDialog/312.1440.1920.1080/0.0.2560.1440@312.1440.1920.1080" timestamp="1586136249619" />
+    <state x="1187" y="267" width="504" height="506" key="search.everywhere.popup" timestamp="1585612225426">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1583" y="349" width="672" height="678" key="search.everywhere.popup/0.27.2560.1413@0.27.2560.1413" timestamp="1584797092193" />
+    <state x="1187" y="267" width="504" height="506" key="search.everywhere.popup/312.1440.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1585612225426" />
+    <state x="997" y="1906" width="540" height="182" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584792106627">
+      <screen x="0" y="0" width="2560" height="2520" />
+    </state>
+    <state x="997" y="1906" width="540" height="182" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2560.2520@0.0.2560.2520" timestamp="1584792106627" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scrap/__init__.py</url>
+          <line>170</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/charts/__init__.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/volleyball$main.coverage" NAME="main Coverage Results" MODIFIED="1586169040622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_copy/competition_matches_2018.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/competition_matches_2019.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/competition_matches_2018.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/player_data_2018_第三阶段交叉赛.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/player_data_2019_第一阶段.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/环境配置.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrap/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

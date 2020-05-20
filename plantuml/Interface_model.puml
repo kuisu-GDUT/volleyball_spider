@@ -1,0 +1,18 @@
+@startuml
+
+class charts{
+    gen_spike_bar(data,title)
+    data_analysis()
+}
+
+class scrap{
+    get_bs4(url)
+    get_html(url)
+    html2bs4(html)
+    get_competition_data(url)
+    data_scrap(url,year)
+    scrap_all_player_data(comp_id, phase_id,year,stage)
+    scrap_single_player_data(comp_id,phase_id,player_id)
+}
+
+@enduml

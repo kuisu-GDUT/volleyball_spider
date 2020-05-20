@@ -1,0 +1,16 @@
+@startuml
+(*)  --> [request volley ball home page]"get index page"
+--> "Filtering a tags in HTML"
+--> [Filter out hyperlinks]"Request hyperlink"
+if "hyperlink is CompetitionMatches.aspx" then
+--> [true]"filter competition number"
+--> "filter stage number"
+--> "filter phase number"
+--> "scrap_all_player_data(comp,phase,year,stage)"
+--> "save data to csv file"
+else
+--> [false]"pass"
+endif
+--> "save data to csv file"
+-->(*)
+@enduml

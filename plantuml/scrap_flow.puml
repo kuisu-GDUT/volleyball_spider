@@ -1,0 +1,12 @@
+/'
+数据爬取流程
+'/
+@startuml
+loop
+webscrap -> server:http request
+server --> webscrap:http response
+webscrap -> webscrap:Filtering URL domain
+collections file
+webscrap --> file:save data
+end
+@enduml

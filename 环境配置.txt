@@ -1,0 +1,14 @@
+环境要求
+python版本大于>3.5
+所需要的基本库
+    数据爬取部分
+        1. requests
+        2. re
+        3. tldextract
+        4. bst
+        5. csv
+        6. numpy
+        7. matplotlib
+        8. glob
+    数据可视化部分
+        1. pandas
